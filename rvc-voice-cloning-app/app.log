@@ -1,0 +1,7 @@
+INFO:__main__:RVC Voice Cloner inicializado no dispositivo: cpu
+INFO:httpx:HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+INFO:matplotlib.font_manager:Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+INFO:matplotlib.font_manager:Failed to extract font properties from /usr/share/fonts/truetype/unifont/unifont_sample.ttf: Could not set the fontsize (invalid pixel size; error code 0x17)
+INFO:matplotlib.font_manager:generated new fontManager
+INFO:httpx:HTTP Request: GET http://localhost:12000/gradio_api/startup-events "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD http://localhost:12000/ "HTTP/1.1 200 OK"
